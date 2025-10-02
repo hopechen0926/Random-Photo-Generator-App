@@ -2,9 +2,10 @@
 
 A simple iOS app built with UIKit that displays a randomly fetched photo from the internet and changes the background color each time a button is pressed.
 
-> 🧪 Demo video link: https://reurl.cc/VWblMy
-
+> Demo video link: https://reurl.cc/VWblMy
 ---
+> Notion Link: https://chipped-cost-454.notion.site/Random-Photo-Generator-27dffd23a9168004b4bfc8ac3e521640
+
 
 ## ✨ Features
 
@@ -14,6 +15,9 @@ A simple iOS app built with UIKit that displays a randomly fetched photo from th
 - Built using UIKit and written in Swift
 
 ---
+## Screenshot
+
+<img width="608" height="514" alt="image" src="https://github.com/user-attachments/assets/3ffb2be4-f41e-4ad1-a23e-f53f5601866e" />
 
 ## 🧱 Components Overview
 
